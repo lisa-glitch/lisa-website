@@ -4,15 +4,15 @@
     width:100%;
 }
 .landing-image{
-    margin: top 200px; bottom: 200px;
-    padding-top: 50px; 
-    padding-bottom: 50px;
+    
+    height: 300px;
     
 }
 .welcome{
 }
-.Section-2{
-}
-.specialize-row {
-    
+
+.btn-chocolate{
+    color: wheat;
+    background-color: chocolate;
+
 }
