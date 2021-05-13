@@ -10,7 +10,9 @@
 }
 .welcome{
 }
-
+.web-dev-image{
+    height: 300px;
+}
 .btn-chocolate{
     color: wheat;
     background-color: chocolate;
